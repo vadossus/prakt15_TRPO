@@ -1,0 +1,72 @@
+﻿<Window x:Class="prakt15_TRPO.View.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prakt15_TRPO.View"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Grid.Row="1" 
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    Width="300"
+                    Margin="20">
+
+            <TextBlock Text="Выберите режим входа:"
+                       FontSize="16"
+                       Margin="0,0,0,20"
+                       HorizontalAlignment="Center"/>
+
+            <GroupBox Header="Менеджер" 
+                      BorderBrush="{StaticResource PrimaryAccent}"
+                      Margin="0,0,0,15">
+                <StackPanel>
+                    <TextBox x:Name="PinTextBox" 
+                             materialDesign:HintAssist.Hint="Пин-код"
+                             FontSize="16"
+                             Margin="0,10,0,5"
+                             MaxLength="4"/>
+
+                    <Button x:Name="ManagerLoginBtn"
+                            Content="Войти как менеджер"
+                            Background="{StaticResource PrimaryAccent}"
+                            Foreground="White"
+                            FontSize="14"
+                            Height="35"
+                            Margin="0,10,0,5"
+                            Click="ManagerLoginBtn_Click"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Посетитель"
+                      BorderBrush="{StaticResource SecondaryAccent}">
+                <StackPanel>
+                    <Button x:Name="VisitorLoginBtn"
+                            Content="Войти как посетитель"
+                            Background="{StaticResource SecondaryAccent}"
+                            Foreground="White"
+                            FontSize="14"
+                            Height="35"
+                            Margin="0,10"
+                            Click="VisitorLoginBtn_Click"/>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <Border Grid.Row="2" Background="#FFF0F0" Padding="10">
+            <TextBlock x:Name="StatusText"
+                       HorizontalAlignment="Center"
+                       Foreground="Red"/>
+        </Border>
+    </Grid>
+</Window>
