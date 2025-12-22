@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Vadim\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\
+C:\Users\rulev\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\
 prakt15_TRPO
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Vadim\source\repos\prakt15_TRPO\App.xaml
+C:\Users\rulev\source\repos\prakt15_TRPO\App.xaml
 41930106486
 
-211869418619
-231-1669069155
+22409324602
+231299190908
 MainWindow.xaml;Views\DManagerWindow.xaml;Views\LoginWindow.xaml;Views\ProductEditWindow.xaml;
 
 False
