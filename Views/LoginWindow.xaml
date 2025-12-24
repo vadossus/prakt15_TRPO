@@ -31,7 +31,7 @@
                       BorderBrush="{StaticResource PrimaryAccent}"
                       Margin="0,0,0,15">
                 <StackPanel>
-                    <TextBox x:Name="PinTextBox" 
+                    <PasswordBox x:Name="PinTextBox" 
                              materialDesign:HintAssist.Hint="Пин-код"
                              FontSize="16"
                              Margin="0,10,0,5"

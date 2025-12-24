@@ -40,9 +40,15 @@ namespace prakt15_TRPO.Views
 
         private void Save_Click(object sender, RoutedEventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(CurrentProduct.Name) || CurrentProduct.Price < 0)
+            if (string.IsNullOrWhiteSpace(CurrentProduct.Name) || CurrentProduct.Price <= 0 || CurrentProduct.Rating <= 0 || CurrentProduct.Stock <= 0)
             {
                 MessageBox.Show("Пожалуйста, проверьте правильность заполнения полей.");
+                return;
+            }
+
+            if (CurrentProduct.CategoryId <= 0 || CurrentProduct.BrandId <= 0)
+            {
+                MessageBox.Show("Выберите категорию или бренд");
                 return;
             }
             DialogResult = true;

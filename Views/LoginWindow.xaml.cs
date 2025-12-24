@@ -27,7 +27,7 @@ namespace prakt15_TRPO.View
 
         private void ManagerLoginBtn_Click(object sender, RoutedEventArgs e)
         {
-            if (PinTextBox.Text == "1234")
+            if (PinTextBox.Password == "1234")
             {
                 var mainWindow = new MainWindow(true);
                 mainWindow.Show();

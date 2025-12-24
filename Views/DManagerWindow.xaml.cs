@@ -39,9 +39,18 @@ namespace prakt15_TRPO.Views
         {
             try
             {
-                DatabaseService.Instance.Context.SaveChanges();
-                MessageBox.Show("Справочники обновлены успешно!");
-                DialogResult = true;
+                var db = DatabaseService.Instance.Context;
+
+                var emptyCategories = db.Categories.Local.Where(x => string.IsNullOrWhiteSpace(x.Name)).ToList();
+                foreach (var item in emptyCategories) db.Categories.Remove(item);
+
+                var emptyBrands = db.Brands.Local.Where(x => string.IsNullOrWhiteSpace(x.Name)).ToList();
+                foreach (var item in emptyBrands) db.Brands.Remove(item);
+
+                var emptyTags = db.Tags.Local.Where(x => string.IsNullOrWhiteSpace(x.Name)).ToList();
+                foreach (var item in emptyTags) db.Tags.Remove(item);
+
+                db.SaveChanges();
             }
             catch (Exception ex)
             {

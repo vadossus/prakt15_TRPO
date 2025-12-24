@@ -25,6 +25,13 @@
                     <ColumnDefinition Width="Auto"/>
                 </Grid.ColumnDefinitions>
 
+                <TextBlock x:Name="Main"
+                   Text="Магазин электроники"
+                   Foreground="White"
+                   FontSize="18"
+                   VerticalAlignment="Center"
+                   Grid.Column="0"/>
+                
                 <StackPanel Grid.Column="2" 
                             Orientation="Horizontal"
                             HorizontalAlignment="Right">

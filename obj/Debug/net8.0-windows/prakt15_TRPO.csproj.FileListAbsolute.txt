@@ -312,3 +312,5 @@ C:\Users\rulev\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\prakt15_TRPO.p
 C:\Users\rulev\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\prakt15_TRPO.genruntimeconfig.cache
 C:\Users\rulev\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\ref\prakt15_TRPO.dll
 C:\Users\rulev\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vadim\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vadim\source\repos\prakt15_TRPO\obj\Debug\net8.0-windows\prakt15_TRPO.sourcelink.json
