@@ -58,6 +58,7 @@
                             <Binding.ValidationRules>
                                 <local:ValidRule/>
                                 <local:ValidRuleSymbols/>
+                                <local:ValidRuleRating Min="0" Max="5.0"/>
                             </Binding.ValidationRules>
                         </Binding>
                     </TextBox.Text>

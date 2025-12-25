@@ -18,6 +18,14 @@ namespace prakt15_TRPO
                 return new ValidationResult(false, "Поле обязательно для заполнения");
             }
 
+            if (double.TryParse(input, out double res))
+            {
+                if (res < 0)
+                {
+                    return new ValidationResult(false, "Значение не может быть меньше нуля");
+                }
+            }
+
             return ValidationResult.ValidResult;
         }
     }
