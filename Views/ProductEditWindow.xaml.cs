@@ -53,35 +53,5 @@ namespace prakt15_TRPO.Views
             }
             DialogResult = true;
         }
-
-        private void SelectImage_Click(object sender, RoutedEventArgs e)
-        {
-            var dialog = new Microsoft.Win32.OpenFileDialog
-            {
-                Filter = "Изображения|*.jpg;*.jpeg;*.png",
-                Title = "Выберите картинку товара"
-            };
-
-            if (dialog.ShowDialog() == true)
-            {
-                try
-                {
-                    string imagesDir = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images");
-                    if (!Directory.Exists(imagesDir)) Directory.CreateDirectory(imagesDir);
-
-                    string fileName = Guid.NewGuid().ToString() + System.IO.Path.GetExtension(dialog.FileName);
-                    string destPath = System.IO.Path.Combine(imagesDir, fileName);
-
-                    File.Copy(dialog.FileName, destPath, true);
-
-                    CurrentProduct.ImagePath = System.IO.Path.Combine("Images", fileName);
-                    ImgPreview.Source = new BitmapImage(new Uri(destPath));
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Ошибка при загрузке: " + ex.Message);
-                }
-            }
-        }
     }
 }

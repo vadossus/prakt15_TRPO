@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using prakt15_TRPO.Data;
 
@@ -11,9 +12,11 @@ using prakt15_TRPO.Data;
 namespace prakt15_TRPO.Migrations
 {
     [DbContext(typeof(EStoreContext))]
-    partial class EStoreContentModelSnapshot : ModelSnapshot
+    [Migration("20251225043102_RemoveImagePath")]
+    partial class RemoveImagePath
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:prakt15_TRPO" 
-        Title="Редактирование товара" Height="768" Width="474" 
+        Title="Редактирование товара" Height="548" Width="499" 
         WindowStartupLocation="CenterOwner" Background="{DynamicResource MaterialDesignPaper}">
 
     <Grid Margin="20">
@@ -90,12 +90,6 @@
                       SelectedValue="{Binding BrandId}"
                       Style="{StaticResource MaterialDesignFloatingHintComboBox}" Margin="0,10"/>
 
-            <GroupBox Header="Фото товара" Margin="0,10">
-                <StackPanel>
-                    <Image x:Name="ImgPreview" Source="{Binding FullImagePath}" Height="150" Margin="0,0,0,10"/>
-                    <Button Content="ВЫБРАТЬ ИЗОБРАЖЕНИЕ" Click="SelectImage_Click" Style="{StaticResource MaterialDesignPaperButton}" Background="{StaticResource PrimaryAccent}"/>
-                </StackPanel>
-            </GroupBox>
 
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
                 <Button Content="ОТМЕНА" IsCancel="True" Style="{StaticResource MaterialDesignRaisedButton}" Background="{StaticResource SecondaryAccent}" Margin="0,0,10,0"/>

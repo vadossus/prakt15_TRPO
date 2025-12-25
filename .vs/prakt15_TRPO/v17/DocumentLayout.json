@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:views\\producteditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\validrulesymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:validrulesymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Migrations\\20251225043102_RemoveImagePath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251225043102_RemoveImagePath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\views\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:views\\producteditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\validrulesymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:validrulesymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\validrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:validrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\views\\dmanagerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -49,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9559F64-33C2-45D7-918E-3592DB6A1892}|prakt15_TRPO.csproj|c:\\users\\rulev\\source\\repos\\prakt15_trpo\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,14 +125,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DManagerWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\DManagerWindow.xaml",
-              "RelativeDocumentMoniker": "Views\\DManagerWindow.xaml",
-              "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\DManagerWindow.xaml",
-              "RelativeToolTip": "Views\\DManagerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-25T03:51:28.252Z",
+              "DocumentIndex": 2,
+              "Title": "20251225043102_RemoveImagePath.cs",
+              "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Migrations\\20251225043102_RemoveImagePath.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251225043102_RemoveImagePath.cs",
+              "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Migrations\\20251225043102_RemoveImagePath.cs",
+              "RelativeToolTip": "Migrations\\20251225043102_RemoveImagePath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:31:02.604Z",
               "EditorCaption": ""
             },
             {
@@ -141,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -153,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
@@ -165,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ValidRuleSymbols.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\ValidRuleSymbols.cs",
               "RelativeDocumentMoniker": "ValidRuleSymbols.cs",
@@ -173,25 +182,24 @@
               "RelativeToolTip": "ValidRuleSymbols.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T14:33:04.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T14:33:04.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAYwGYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T07:06:06.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ValidRule.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\ValidRule.cs",
               "RelativeDocumentMoniker": "ValidRule.cs",
@@ -199,12 +207,11 @@
               "RelativeToolTip": "ValidRule.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T04:03:29.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:03:29.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -216,7 +223,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T07:11:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DManagerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\DManagerWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\DManagerWindow.xaml",
+              "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\DManagerWindow.xaml",
+              "RelativeToolTip": "Views\\DManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-25T03:51:28.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\ProductEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Views\\ProductEditWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ProductEditWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:14:20.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Service\\DatabaseService.cs",
               "RelativeDocumentMoniker": "Service\\DatabaseService.cs",
@@ -224,12 +268,11 @@
               "RelativeToolTip": "Service\\DatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T07:23:39.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T07:23:39.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "EStoreContext.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Data\\EStoreContext.cs",
               "RelativeDocumentMoniker": "Data\\EStoreContext.cs",
@@ -241,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "Models\\Brand.cs",
@@ -253,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -265,19 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T07:11:08.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProductTag.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\ProductTag.cs",
               "RelativeDocumentMoniker": "Models\\ProductTag.cs",
@@ -289,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Models\\Tag.cs",
@@ -301,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -313,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20251221133322_ImageAdd.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Migrations\\20251221133322_ImageAdd.cs",
               "RelativeDocumentMoniker": "Migrations\\20251221133322_ImageAdd.cs",
@@ -325,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "20251220074524_UpdateModel.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Migrations\\20251220074524_UpdateModel.cs",
               "RelativeDocumentMoniker": "Migrations\\20251220074524_UpdateModel.cs",
@@ -337,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "20251220071348_InitialDB.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\Migrations\\20251220071348_InitialDB.cs",
               "RelativeDocumentMoniker": "Migrations\\20251220071348_InitialDB.cs",
@@ -349,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\Vadim\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Vadim\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
@@ -362,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\rulev\\source\\repos\\prakt15_TRPO\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
