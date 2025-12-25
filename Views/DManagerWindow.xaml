@@ -38,7 +38,7 @@
         </TabControl>
 
         <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
-            <Button Content="СОХРАНИТЬ ИЗМЕНЕНИЯ" Click="Save_Click"/>
+            <Button Content="СОХРАНИТЬ ИЗМЕНЕНИЯ" Click="Save_Click" Style="{StaticResource MaterialDesignFlatButton}" Background="{StaticResource PrimaryAccent}"/>
         </StackPanel>
     </Grid>
 </Window>

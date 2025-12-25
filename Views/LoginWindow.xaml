@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:prakt15_TRPO.View"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="LoginWindow" Height="450" Width="800"
+        Title="Вход в систему" Height="450" Width="800"
         WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions>
@@ -16,6 +16,10 @@
         </Grid.RowDefinitions>
 
 
+        <StackPanel Grid.Row="0" Background="{StaticResource PrimaryAccent}">
+            <TextBlock Text="Магазин электроники" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" Foreground="White"/>
+        </StackPanel>
+        
         <StackPanel Grid.Row="1" 
                     VerticalAlignment="Center"
                     HorizontalAlignment="Center"
@@ -40,6 +44,7 @@
                     <Button x:Name="ManagerLoginBtn"
                             Content="Войти как менеджер"
                             Background="{StaticResource PrimaryAccent}"
+                            Style="{StaticResource MaterialDesignRaisedButton}"
                             Foreground="White"
                             FontSize="14"
                             Height="35"
@@ -54,6 +59,7 @@
                     <Button x:Name="VisitorLoginBtn"
                             Content="Войти как посетитель"
                             Background="{StaticResource SecondaryAccent}"
+                            Style="{StaticResource MaterialDesignRaisedButton}"
                             Foreground="White"
                             FontSize="14"
                             Height="35"

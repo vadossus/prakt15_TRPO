@@ -276,10 +276,10 @@
                                             <ItemsControl.ItemTemplate>
                                                 <DataTemplate>
                                                     <TextBlock Text="{Binding Name, StringFormat='#{0}'}"
-                                           FontSize="13"
-                                           Foreground="{StaticResource PrimaryAccent}"
-                                           Margin="0,0,10,0"
-                                           FontWeight="Medium"/>
+                                                       FontSize="13"
+                                                       Foreground="{StaticResource PrimaryAccent}"
+                                                       Margin="0,0,10,0"
+                                                       FontWeight="Medium"/>
                                                 </DataTemplate>
                                             </ItemsControl.ItemTemplate>
                                         </ItemsControl>
